@@ -2,6 +2,6 @@
 
 This is a data management plan for GRAD521.
 
-##Research context
+## Research context
 
-##About the author
+## About the author
